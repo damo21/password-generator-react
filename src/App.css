@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
+
+body{
+  background-color: #00171F!important;
+}
+
+h1{
+  text-align: center;
+  color: white;
+  font-family: 'Bebas Neue', cursive;
+}
+
+.sharedText{
+  color: white;
+  font-family: 'Comfortaa', cursive;
+}
+
